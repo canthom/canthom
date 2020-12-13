@@ -9,4 +9,3 @@
 - 📫 How to reach me: ... [My Portfolio](https://www.toma.dev)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I studied History at University. 
--->
