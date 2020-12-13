@@ -1,5 +1,6 @@
-### Hi there 👋
+### As a famous republican general once said... *Hello there!*
 
+Hi, I'm [Thomas Can](https://toma.dev/) 
 
 - 🔭 I’m currently working on ... my own WordPress Theme
 - 🌱 I’m currently learning ... PHP & WordPress
