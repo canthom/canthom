@@ -1,12 +1,11 @@
-### As a famous republican general once said... *Hello there!*
+### As a famous general once said... *Hello there!*
 
-Hi, I'm [Thomas Can](https://toma.dev/), a developer from France, Normandy
+Hi, I'm [Thomas Can](https://toma.dev/), a self-taught developer from France, Normandy. 
+I specialize in Front End development and Web design.
 
+A Few Personal Stuffs:
 - 🔭 I’m currently working on ... my own WordPress Theme
 - 🌱 I’m currently learning ... PHP & WordPress
 - 👯 I’m looking to collaborate on ... Sass
 - 🤔 I’m looking for help with ... WordPress
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [My Portfolio](https://www.toma.dev)
-- 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I studied History at University. 
