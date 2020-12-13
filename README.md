@@ -1,6 +1,6 @@
 ### As a famous republican general once said... *Hello there!*
 
-Hi, I'm [Thomas Can](https://toma.dev/) 
+Hi, I'm [Thomas Can](https://toma.dev/), a developer from France, Normandy
 
 - 🔭 I’m currently working on ... my own WordPress Theme
 - 🌱 I’m currently learning ... PHP & WordPress
