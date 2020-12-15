@@ -1,6 +1,6 @@
 ### As a [famous general once said](https://youtu.be/rEq1Z0bjdwc)... *Hello there!*
 
-Hi, I'm [Thomas Can](https://toma.dev/), a self-taught developer from France, Normandy. 
+I'm [Thomas Can](https://toma.dev/), a self-taught developer from France, Normandy. 
 I specialize in Front End development and Web design.
 
 A Few Personal Stuffs:
