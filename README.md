@@ -8,4 +8,4 @@ A Few Personal Stuffs:
 - 🌱 I’m currently learning ... PHP & WordPress
 - 👯 I’m looking to collaborate on ... Sass
 - 🤔 I’m looking for help with ... WordPress
-- ⚡ Fun fact: ... I studied History at University. 
+- ⚡ Fun fact: ... I studied History at University !
