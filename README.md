@@ -8,7 +8,7 @@ What I do :
 - I'm only interest in quality : I want my creations to be responsives, fast and accessibles to everyone.
 
 What am I doing right now ? 
-- :coumputer: I’m currently working on my first WordPress Theme
+- :computer: I’m currently working on my first WordPress Theme
 - :books: I’m currently learning PHP & WordPress
 
 In the future, I'd like to...
