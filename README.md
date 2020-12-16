@@ -19,5 +19,5 @@ In the future, I'd like to...
 
 And about me...
 - I'm currently looking for a job ! :fist:
-- I always enjoy a nice talk.
+- I always enjoy a nice talk. :relaxed:
 - I'm a card games lover :cupid:
