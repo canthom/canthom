@@ -17,6 +17,6 @@ In the future, I'd like to...
 - ... to collaborate on Open Source projects.
 
 And about me...
-- I'm currently looking for a job ! :fist:
+- I'm currently looking for a job ! :wave:
 - I always enjoy a nice talk. :relaxed:
 - I'm a card games lover :cupid:
