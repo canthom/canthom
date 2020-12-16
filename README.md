@@ -1,7 +1,6 @@
 ### As a [famous general once said](https://youtu.be/rEq1Z0bjdwc)... *Hello there!*
 
 I'm [Thomas Can](https://toma.dev/), a self-taught developer from France, Normandy. 
-I specialize in Front End development and Web design.
 
 What I do : 
 - I specialize in Front End development and Web design : as a CSS enthousiast, I like to create beautiful and simples things.
