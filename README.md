@@ -8,8 +8,8 @@ What I do :
 - I'm only interest in quality : I want my creations to be responsives, fast and accessibles to everyone.
 
 What am I doing right now ? 
-- 🔭 I’m currently working on ... my own WordPress Theme
-- 🌱 I’m currently learning ... PHP & WordPress
+- :coumputer: I’m currently working on my first WordPress Theme
+- :books: I’m currently learning PHP & WordPress
 
 In the future, I'd like to...
 - ... learn JS fundamentals :metal:
