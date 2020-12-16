@@ -13,8 +13,8 @@ What am I doing right now ?
 
 In the future, I'd like to...
 - ... learn JS fundamentals :metal:
-- ... to get [Opquast quality certificate](https://www.opquast.com/a-propos/)
-- ... to collaborate on Open Source projects.
+- ... to get [Opquast quality certificate](https://www.opquast.com/a-propos/) :mortar_board:
+- ... to collaborate on Open Source projects. :globe_with_meridians:
 
 And about me...
 - I'm currently looking for a job ! :wave:
