@@ -10,6 +10,7 @@ What I do :
 What am I doing right now ? 
 - :computer: I’m currently working on my first WordPress Theme
 - :books: I’m currently learning PHP & WordPress
+- :mortar_board: I'm currently learning React with OpenClassrooms 
 
 In the future, I'd like to...
 - ... learn JS fundamentals :metal:
