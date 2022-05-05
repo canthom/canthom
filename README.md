@@ -8,8 +8,8 @@ I'm [Thomas Can](https://toma.dev/), a self-taught developer from France, Norman
 - I'm only interest in quality : I want my creations to be responsives, fast and accessibles to everyone.
 
 #### What am I doing right now ? 
-- :computer: I’m currently working on my first WordPress Theme
-- :books: I’m currently learning PHP & WordPress
+- :computer: I’m currently working on my own portfolio
+- :books: I’m currently learning Redux & Swagger
 - :mortar_board: I'm currently learning React with OpenClassrooms 
 
 #### In the future, I'd like to...
