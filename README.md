@@ -5,7 +5,7 @@ I'm [Thomas Can](https://toma.dev/), a self-taught developer from France, Norman
 #### What I do : 
 - I specialize in Front End development : as a CSS enthousiast, I like to create beautiful and simples apps.
 - I always enjoy clean code : I use [BEM Methodology](https://en.bem.info/methodology/) and [Sass 7-1 Pattern](https://sass-guidelin.es/#architecture) for my projects.
-- I'm only interest in quality : I want my creations to be responsives, fast and accessibles to everyone.
+- I'm interest in quality : I want my creations to be responsives, fast and accessibles to everyone.
 
 #### What am I doing right now ? 
 - :computer: I’m currently working on my own portfolio
