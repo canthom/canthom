@@ -9,11 +9,11 @@ I'm [Thomas Can](https://toma.dev/), a self-taught developer from France, Norman
 
 #### What am I doing right now ? 
 - :computer: I’m currently working on my own portfolio
-- :books: I’m currently learning Redux & Swagger
+- :books: I’m currently Next
 - :mortar_board: I'm currently learning React with OpenClassrooms 
 
 #### In the future, I'd like to...
-- ... learn NextJS & TypeScript :metal:
+- ... learn TypeScript :metal:
 - ... to get [Opquast quality certificate](https://www.opquast.com/a-propos/) :mortar_board:
 - ... to collaborate on Open Source projects. :globe_with_meridians:
 
