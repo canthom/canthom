@@ -9,8 +9,8 @@ I'm Thomas Can, a self-taught developer from France, Normandy.
 
 #### What am I doing right now ? 
 - :computer: I’m currently working on my own portfolio
-- :books: I’m currently Next
-- :mortar_board: I'm currently learning React with OpenClassrooms 
+- :books: I’m currently learning Next.js
+- :mortar_board: I'm currently looking for new opportunities
 
 #### In the future, I'd like to...
 - ... learn TypeScript :metal:
