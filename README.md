@@ -1,6 +1,6 @@
 ### As a [famous general once said](https://youtu.be/rEq1Z0bjdwc)... *Hello there!*
 
-I'm Thomas Can, a self-taught developer from France. 
+I'm Thomas Can, a React developer from France. 
 
 #### What I do : 
 - I specialize in Front End development : as a CSS enthousiast, I like to create beautiful and simples apps.
